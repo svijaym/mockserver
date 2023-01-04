@@ -1,4 +1,220 @@
 {
+  "makeup": [
+    {
+      "id": 1,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-11020203884627.jpg?v=1619102626",
+      "name": "Contour De Force Mini Blush",
+      "price": 349,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_6f55bcac-3e42-4253-88ee-cec0fa43c62a.jpg?v=1645608270",
+      "name": "Matte Attack Transferproof Lipstick",
+      "price": 699,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_51afaa84-af89-42b5-bdb8-a51b01257bc0.jpg?v=1639582607",
+      "name": "Bling Leader Illuminating Moisturizer",
+      "price": 799,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-11020203884627.jpg?v=1619102626",
+      "name": "Contour De Force Mini Blush - 02 Pink Pinnacle (Deep Rose)",
+      "price": 799,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-01-peach-peak-soft-peach-pink-11020203884627.jpg?v=1619102626",
+      "name": "Contour De Force Mini Blush",
+      "price": 349,
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-contour-de-force-mini-blush-02-pink-pinnacle-deep-rose-12785043669075.jpg?v=1619102659",
+      "name": "Contour De Force Mini Blush - 02 Pink Pinnacle (Deep Rose)",
+      "price": 350,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_5e8187e3-f7a2-40aa-a759-d4bf69769234.jpg?v=1639496327",
+      "name": "Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+      "price": 248,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12796432941139.jpg?v=1619114695",
+      "name": "Goddess Of Flawless SPF30+ BB Cream",
+      "price": 749,
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_529c20ee-c872-4029-9702-8580d7b9a66f.jpg?v=1640178644",
+      "name": "Ace face foundation",
+      "price": 655,
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/01_59809bd6-49ef-4c6b-b262-47002bedc963.jpg?v=1639755559",
+      "name": "Makeup combo",
+      "price": 1149,
+      "rating": 4.3
+    }
+  ],
+  "brushes": [
+    {
+      "id": 1,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-052Kabuki.jpg?v=1627573664",
+      "name": "Blend Trend Foundation Brush - 052 Kabuki",
+      "price": 449,
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-001Blush.jpg?v=1627659984",
+      "name": "Blend Trend Face Brush - 001 Blush",
+      "price": 399,
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-007Powder.jpg?v=1627660008",
+      "name": "Blend Trend Face Brush - 007 Powder",
+      "price": 375,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-006Highlighter.jpg?v=1627660002",
+      "name": "Blend Trend Face Brush - 006 Highlighter",
+      "price": 399,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-13.jpg?v=1627659977",
+      "name": "Blend Trend Dual Eyeshadow Brush - 413 Flat + Round Xl",
+      "price": 599,
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-003Contour.jpg?v=1627659996",
+      "name": "Blend Trend Face Brush - 003 Contour",
+      "price": 399,
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-2-min.jpg?v=1627573652",
+      "name": "Blend Trend Eyeshadow Brush - 041 Flat",
+      "price": 299,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-12-min.jpg?v=1627573647",
+      "name": "Blend Trend Dual Eyeshadow Brush - 412 Flat + Round",
+      "price": 650,
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/BeginnersEssentialsCombo3-WBGimages.jpg?v=1630683820",
+      "name": "Face essentials combo",
+      "price": 1349,
+      "rating": 4.1
+    },
+    {
+      "id": 10,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_1.jpg?v=1630683833",
+      "name": "Face and eyes combo",
+      "price": 559,
+      "rating": 4.4
+    }
+  ],
+  "skincare": [
+    {
+      "id": 1,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-charcoal-patrol-bubble-mask-12775750500435.jpg?v=1644399394",
+      "name": "charcoal buble face mask",
+      "price": 149,
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-cheat-sheet-clarifying-mask-12775754203219.jpg?v=1619113702",
+      "name": "cheat sheet buble mask",
+      "price": 99,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/Hydrating-Primer-3.jpg?v=1626423647",
+      "name": "Aquaholic powder",
+      "price": 699,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_3cb613fc-43c8-4763-b3e6-5ccf4761c0d5.jpg?v=1641570994",
+      "name": "Power clay stick mask",
+      "price": 59,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-cooling-stick-28037939429459.jpg?v=1644409181",
+      "name": "Citrus cooling stick",
+      "price": 699,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/Hyaluronic-Serum-3_1.jpg?v=1626423730",
+      "name": "Aquaholic serum",
+      "price": 259,
+      "rating": 4.1
+    },
+    {
+      "id": 7,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/moisturiser.jpg?v=1626968292",
+      "name": "Aquaholic moisturizer",
+      "price": 349,
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_61109b87-1ae6-4cb4-8550-5b57d688a4eb.jpg?v=1651852771",
+      "name": "Bling leader sunscreen",
+      "price": 559,
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-cheat-sheet-anti-aging-mask-12775753744467.jpg?v=1619113715",
+      "name": "Cheat sheet anti aging mask",
+      "price": 99,
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "avtr": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-acne-combo-pack-of-6-14056089157715.jpg?v=1619113757",
+      "name": "Acne combo",
+      "price": 549,
+      "rating": 5
+    }
+  ],
   "productData": [
     {
       "id": 1,
