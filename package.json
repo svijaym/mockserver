@@ -1,7 +1,7 @@
 {
-  "name": "mockserver",
+  "name": "mockserver-evl",
   "version": "1.0.0",
-  "description": "mock server app",
+  "description": "mock server app-evl",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
